@@ -1,0 +1,45 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Kursus</string>
+    <string name="architecture">Arsitektur</string>
+    <string name="automotive">Otomotif</string>
+    <string name="biology">Biologi</string>
+    <string name="crafts">Crafts</string>
+    <string name="business">Bisnis</string>
+    <string name="culinary">Kuliner</string>
+    <string name="design">Desain</string>
+    <string name="ecology">Ekologi</string>
+    <string name="engineering">Teknik</string>
+    <string name="fashion">Pasion</string>
+    
+<!--    Simon Andika Simanungkalit 411211203-->
+
+    <string name="finance">Keungan</string>
+    <string name="film">Film</string>
+    <string name="gaming">Permainan</string>
+    <string name="geology">Geologi</string>
+    <string name="drawing">Menggambar</string>
+    <string name="history">Sejarah</string>
+    <string name="journalism">Jurnal</string>
+    <string name="law">Hukum</string>
+    <string name="lifestyle">Gaya Hidup</string>
+    <string name="music">Musik</string>
+    <string name="painting">Painting</string>
+    <string name="photography">Photography</string>
+    <string name="physics">physics</string>
+    <string name="tech">Tech</string>
+</resources>
